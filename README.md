@@ -1,1 +1,1 @@
-"# DeepLearningTrader" 
+# DeepLearningTrader software
